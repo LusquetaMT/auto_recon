@@ -1,5 +1,11 @@
 # auto_recon
-Cyber Security auto reconossaince
+Scans a specified domain
+
+- Alive subdomains
+- Probe for alive hosts
+- Port scanning
+- Crawling (gau, waybackmachine, katana)
+- Screenshot alive hosts
 
 # Instructions
 
